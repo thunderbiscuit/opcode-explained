@@ -12,6 +12,7 @@ export default defineConfig({
     sidebar: {
       "/opcodes/": [
         { text: "OP_0", link: "/opcodes/OP_0.md" },
+        { text: "OP_PUSHBYTES_1", link: "/opcodes/OP_PUSHBYTES_1.md" },
         { text: "OP_2", link: "/opcodes/OP_2.md" },
         { text: "OP_ADD", link: "/opcodes/OP_ADD.md" },
       ],
