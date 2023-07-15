@@ -20,6 +20,7 @@ export default defineConfig({
         { text: "OP_PUSHBYTES_6", link: "/opcodes/OP_PUSHBYTES_6.md" },
         { text: "OP_PUSHBYTES_7", link: "/opcodes/OP_PUSHBYTES_7.md" },
         { text: "OP_PUSHBYTES_8", link: "/opcodes/OP_PUSHBYTES_8.md" },
+        { text: "OP_PUSHBYTES_9", link: "/opcodes/OP_PUSHBYTES_9.md" },
         { text: "OP_2", link: "/opcodes/OP_2.md" },
         { text: "OP_ADD", link: "/opcodes/OP_ADD.md" },
       ],
