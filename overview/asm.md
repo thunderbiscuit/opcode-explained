@@ -10,4 +10,17 @@ abab
 
 This can create a bit of confusion at first because the raw scripts don't always seem to match their ASM representations.
 
-2. You might see opcodes like `OP_2`, `OP_3`, and so on represented only as `2`, `3`, and so on in ASM. This is because these opcodes simply push the number in their name on the stack, and so representing them as simply those numbers is thought of as being easier to read (if more confusing).
+2. You might see opcodes like `OP_2`, `OP_3`, and so on represented only as `2`, `3`, and so on in ASM. This is because these opcodes simply push the number in their name on the stack, and so representing them as simply those numbers is thought of as being easier to read (if more confusing). Here is what this looks like in script:
+```shell
+# ASM script representation 1
+OP_3
+
+# ASM script representation 2
+3
+
+# Raw script
+53
+
+# Final stack
+03
+```

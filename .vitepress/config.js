@@ -6,7 +6,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: "Opcodes", link: "/opcodes/", activeMatch: "/opcodes/" },
-      { text: "Extras", link: "/overview/notes.md", activeMatch: "/overview" }
+      { text: "Extras", link: "/overview/script-success.md", activeMatch: "/overview" }
     ],
 
     sidebar: {
@@ -23,8 +23,9 @@ export default defineConfig({
       ],
       
       "/overview/": [
-        { text: "Notes on Bitcoin Script", link: "/overview/notes.md" },
+        { text: "Bitcoin Script Success/Failure", link: "/overview/script-success.md" },
         { text: "ASM Representation", link: "/overview/asm.md" },
+        { text: "Numbers in Script", link: "/overview/numbers.md" },
       ]
     },
     
