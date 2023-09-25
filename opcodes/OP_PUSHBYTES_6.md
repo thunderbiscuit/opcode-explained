@@ -9,7 +9,7 @@ The `OP_PUSHBYTES_6` opcode will push the following 6 bytes onto the stack. It's
 
 ## Example
 ```shell
-# Script
+# ASM script
 OP_PUSHBYTES_6 a4b5c6d7e8f9
 
 # Raw script

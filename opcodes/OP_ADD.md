@@ -16,16 +16,22 @@ The execution of the `OP_ADD`` opcode involves three steps:
 
 ## Examples
 ```shell
-# Script
+# ASM script
 OP_2 OP_3 OP_ADD
+
+# Raw script
+525393
 
 # Final stack
 5
 ```
 
 ```shell
-# Script
+# ASM script
 OP_2 OP_3 OP_ADD OP_4 OP_EQUAL
+
+# Raw script
+5253935487
 
 # Final stack
 0

@@ -5,7 +5,7 @@
 **Short Description:** Push the number -1 onto the stack.  
 :::
 
-The `OP_1NEGATE` opcode will push `0xff` (255 in decimal, representing -1 in the context of script execution) onto the stack. This opcode utilizes the [minimally encoded integers format](../overview/numbers.md#minimally-encoded-integers).
+The `OP_1NEGATE` opcode will push `0x81` (representing -1 in the context of script execution) onto the stack. This opcode utilizes the [minimally encoded integers format](../overview/numbers.md#minimally-encoded-integers).
 
 ## Examples
 ### Example 1

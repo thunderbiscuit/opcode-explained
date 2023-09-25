@@ -9,7 +9,7 @@ The `OP_PUSHBYTES_5` opcode will push the following 5 bytes onto the stack. It's
 
 ## Example
 ```shell
-# Script
+# ASM script
 OP_PUSHBYTES_5 a4b5c6d7e8
 
 # Raw script

@@ -2,7 +2,7 @@
 :::info
 **Opcode number:** 0  
 **Byte representation:**  `0x00`  
-**Other names:** `OP_FALSE`
+**Other names:** `OP_FALSE`  
 **Short Description:** Push an empty byte array onto the stack.  
 :::
 
@@ -11,7 +11,7 @@ The `OP_0` opcode, which corresponds to the byte `0x00`, doesn't push the numeri
 ## Examples
 ### Example 1
 ```shell
-# Script
+# ASM script
 OP_0 OP_0
 
 # Raw script
@@ -24,7 +24,7 @@ OP_0 OP_0
 
 ### Example 2
 ```shell
-# Script
+# ASM script
 OP_0 OP_0 OP_ADD
 
 # Raw script
