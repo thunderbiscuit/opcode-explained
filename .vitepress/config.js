@@ -100,6 +100,7 @@ export default defineConfig({
         { text: "OP_4", link: "/opcodes/OP_4.md" },
         { text: "OP_5", link: "/opcodes/OP_5.md" },
         { text: "OP_6", link: "/opcodes/OP_6.md" },
+        { text: "OP_7", link: "/opcodes/OP_7.md" },
         { text: "OP_ADD", link: "/opcodes/OP_ADD.md" },
       ],
       
