@@ -114,6 +114,7 @@ export default defineConfig({
         { text: "<code>[ 147 ]</code>&nbsp;&nbsp; OP_ADD", link: "/opcodes/OP_ADD.md" },
         { text: "<code>[ 176 ]</code>&nbsp;&nbsp; OP_NOP1", link: "/opcodes/OP_NOP1.md" },
         { text: "<code>[ 179 ]</code>&nbsp;&nbsp; OP_NOP4", link: "/opcodes/OP_NOP4.md" },
+        { text: "<code>[ 180 ]</code>&nbsp;&nbsp; OP_NOP5", link: "/opcodes/OP_NOP5.md" },
       ],
       
       "/overview/": [
