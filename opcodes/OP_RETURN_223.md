@@ -1,7 +1,7 @@
 # OP_RETURN_223
 :::info
 **Opcode number:** 223  
-**Byte representation:**  `0xdf`  
+**Byte representation:** `0xdf`  
 **Short description:** Fail the script immediately.
 :::
 

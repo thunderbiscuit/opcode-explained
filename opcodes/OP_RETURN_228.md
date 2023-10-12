@@ -1,7 +1,7 @@
 # OP_RETURN_228
 :::info
 **Opcode number:** 228  
-**Byte representation:**  `0xe4`  
+**Byte representation:** `0xe4`  
 **Short description:** Fail the script immediately.
 :::
 

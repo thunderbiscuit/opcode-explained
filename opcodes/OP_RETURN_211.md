@@ -1,7 +1,7 @@
 # OP_RETURN_211
 :::info
 **Opcode number:** 211  
-**Byte representation:**  `0xd3`  
+**Byte representation:** `0xd3`  
 **Short description:** Fail the script immediately.
 :::
 

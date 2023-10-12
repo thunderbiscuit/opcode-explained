@@ -5,7 +5,7 @@ This page would like some review. If you'd like to contribute, take a look at th
 
 :::info
 **Opcode number:** 176  
-**Byte representation:**  `0xb0`   
+**Byte representation:** `0xb0`   
 **Short Description:** Does nothing. 
 :::
 

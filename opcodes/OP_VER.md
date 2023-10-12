@@ -1,7 +1,7 @@
 # OP_VER
 :::info
 **Opcode number:** 98  
-**Byte representation:**  `0x62`  
+**Byte representation:** `0x62`  
 **Short description:** Fail the script immediately.
 :::
 

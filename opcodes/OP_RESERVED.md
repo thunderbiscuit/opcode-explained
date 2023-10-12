@@ -1,7 +1,7 @@
 # OP_RESERVED
 :::info
 **Opcode number:** 80  
-**Byte representation:**  `0x50`  
+**Byte representation:** `0x50`  
 **Short description:** Fail the script immediately.
 :::
 

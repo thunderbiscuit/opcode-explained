@@ -5,7 +5,7 @@ This page would like some review. If you'd like to contribute, take a look at th
 
 :::info
 **Opcode number:** 97  
-**Byte representation:**  `0x61`   
+**Byte representation:** `0x61`   
 **Short Description:** Does nothing. 
 :::
 

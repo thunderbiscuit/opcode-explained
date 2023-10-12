@@ -1,7 +1,7 @@
 # OP_0
 :::info
 **Opcode number:** 0  
-**Byte representation:**  `0x00`  
+**Byte representation:** `0x00`  
 **Other names:** `OP_FALSE`  
 **Short Description:** Push an empty byte array onto the stack.  
 :::

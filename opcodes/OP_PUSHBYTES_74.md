@@ -1,7 +1,7 @@
 # OP_PUSHBYTES_74
 :::info
 **Opcode number:** 74  
-**Byte representation:**  `0x4a`  
+**Byte representation:** `0x4a`  
 **Short description:** Push the next 74 bytes onto the stack. 
 :::
 

@@ -3,9 +3,9 @@
 Bitcoin script reads numbers in little endian format. For example, when using `OP_PUSHDATA2` and providing 2 following bytes that must be interpreted as an integer for the number of following bytes to push on the stack, the number 400 would be encoded as `9001` (400 in hexadecimal is `0190`, which reversed in little endian becomes `9001`).
 
 ## Minimally encoded integers
->:warning::warning:  
->This section has not been reviewed by bitcoin script experts yet! It was half written by ChatGPT-4 and as far as I can tell it's correct but I would appreciate review.  
->:warning::warning:
+:::danger 
+This section has not been reviewed by bitcoin script experts yet! It was half written by ChatGPT-4 and as far as I can tell it's correct but I would appreciate review. If you can help, [please open an issue or pull request on the repository](https://github.com/thunderbiscuit/opcode-explained).
+:::
 
 <br>
 

@@ -1,7 +1,7 @@
 # OP_RETURN_208
 :::info
 **Opcode number:** 208  
-**Byte representation:**  `0xd0`  
+**Byte representation:** `0xd0`  
 **Short description:** Fail the script immediately.
 :::
 

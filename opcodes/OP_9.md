@@ -1,7 +1,7 @@
 # OP_9
 :::info
 **Opcode number:** 89  
-**Byte representation:**  `0x59`  
+**Byte representation:** `0x59`  
 **Short Description:** Push the number 9 onto the stack.  
 :::
 

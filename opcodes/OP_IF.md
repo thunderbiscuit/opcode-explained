@@ -1,7 +1,7 @@
 # OP_IF
 :::info
 **Opcode number:** 99  
-**Byte representation:**  `0x63`  
+**Byte representation:** `0x63`  
 **Short description:** Pop and execute the next statements if a nonzero element was popped.
 :::
 

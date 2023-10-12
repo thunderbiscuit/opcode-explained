@@ -1,7 +1,7 @@
 # OP_RETURN_225
 :::info
 **Opcode number:** 225  
-**Byte representation:**  `0xe1`  
+**Byte representation:** `0xe1`  
 **Short description:** Fail the script immediately.
 :::
 

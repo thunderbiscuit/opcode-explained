@@ -1,7 +1,7 @@
 # OP_ADD
 :::info
 **Opcode number:** 147  
-**Byte representation:**  `0x93`  
+**Byte representation:** `0x93`  
 **Short Description:** Pop two stack items and push their sum.  
 :::
 

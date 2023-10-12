@@ -1,7 +1,7 @@
 # OP_4
 :::info
 **Opcode number:** 84  
-**Byte representation:**  `0x54`  
+**Byte representation:** `0x54`  
 **Short Description:** Push the number 4 onto the stack.  
 :::
 

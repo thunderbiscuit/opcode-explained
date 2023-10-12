@@ -5,7 +5,7 @@ This page would like some review. If you'd like to contribute, take a look at th
 
 :::info
 **Opcode number:** 180  
-**Byte representation:**  `0xb4`   
+**Byte representation:** `0xb4`   
 **Short Description:** Does nothing. 
 :::
 

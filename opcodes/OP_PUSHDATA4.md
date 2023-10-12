@@ -1,7 +1,7 @@
 # OP_PUSHDATA4
 :::info
 **Opcode number:** 78  
-**Byte representation:**  `0x4e`  
+**Byte representation:** `0x4e`  
 **Short description:** Read the next 4 bytes as `N`. Push the next `N` bytes as an array onto the stack.
 :::
 

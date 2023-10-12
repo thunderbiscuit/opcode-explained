@@ -1,7 +1,7 @@
 # OP_RETURN_218
 :::info
 **Opcode number:** 218  
-**Byte representation:**  `0xda`  
+**Byte representation:** `0xda`  
 **Short description:** Fail the script immediately.
 :::
 

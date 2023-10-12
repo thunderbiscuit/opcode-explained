@@ -1,7 +1,7 @@
 # OP_8
 :::info
 **Opcode number:** 88  
-**Byte representation:**  `0x58`  
+**Byte representation:** `0x58`  
 **Short Description:** Push the number 8 onto the stack.  
 :::
 

@@ -1,7 +1,7 @@
 # OP_PUSHBYTES_57
 :::info
 **Opcode number:** 57  
-**Byte representation:**  `0x39`  
+**Byte representation:** `0x39`  
 **Short Description:** Push the next 57 bytes onto the stack. 
 :::
 

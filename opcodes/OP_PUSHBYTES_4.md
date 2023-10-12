@@ -1,7 +1,7 @@
 # OP_PUSHBYTES_4
 :::info
 **Opcode number:** 4  
-**Byte representation:**  `0x04`  
+**Byte representation:** `0x04`  
 **Short Description:** Push the next 4 bytes onto the stack. 
 :::
 

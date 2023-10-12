@@ -1,7 +1,7 @@
 # OP_7
 :::info
 **Opcode number:** 87  
-**Byte representation:**  `0x57`  
+**Byte representation:** `0x57`  
 **Short Description:** Push the number 7 onto the stack.  
 :::
 

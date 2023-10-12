@@ -1,7 +1,7 @@
 # OP_3
 :::info
 **Opcode number:** 83  
-**Byte representation:**  `0x53`  
+**Byte representation:** `0x53`  
 **Short Description:** Push the number 3 onto the stack.  
 :::
 

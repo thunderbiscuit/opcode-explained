@@ -1,7 +1,7 @@
 # OP_PUSHBYTES_26
 :::info
 **Opcode number:** 26  
-**Byte representation:**  `0x1a`  
+**Byte representation:** `0x1a`  
 **Short Description:** Push the next 26 bytes onto the stack. 
 :::
 

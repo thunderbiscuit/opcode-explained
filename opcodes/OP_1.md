@@ -1,7 +1,7 @@
 # OP_1
 :::info
 **Opcode number:** 81  
-**Byte representation:**  `0x51`  
+**Byte representation:** `0x51`  
 **Other names:** `OP_TRUE`  
 **Short Description:** Push the number 1 onto the stack. 
 :::

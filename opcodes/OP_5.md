@@ -1,7 +1,7 @@
 # OP_5
 :::info
 **Opcode number:** 85  
-**Byte representation:**  `0x55`  
+**Byte representation:** `0x55`  
 **Short Description:** Push the number 5 onto the stack.  
 :::
 

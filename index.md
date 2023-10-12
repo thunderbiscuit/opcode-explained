@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Opcode Explained"
   # text: "Documenting bitcoin opcodes"
-  tagline: "Documenting bitcoin opcodes one at a time."
+  tagline: "Documenting bitcoin opcodes, one at a time."
   # actions:
   #   - theme: brand
   #     text: Markdown Examples

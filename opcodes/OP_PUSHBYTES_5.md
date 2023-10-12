@@ -1,7 +1,7 @@
 # OP_PUSHBYTES_5
 :::info
 **Opcode number:** 5  
-**Byte representation:**  `0x05`  
+**Byte representation:** `0x05`  
 **Short Description:** Push the next 5 bytes onto the stack. 
 :::
 

@@ -1,7 +1,7 @@
 # OP_2
 :::info
 **Opcode number:** 82  
-**Byte representation:**  `0x52`  
+**Byte representation:** `0x52`  
 **Short Description:** Push the number 2 onto the stack.  
 :::
 

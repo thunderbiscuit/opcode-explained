@@ -1,7 +1,7 @@
 # OP_RETURN_205
 :::info
 **Opcode number:** 205  
-**Byte representation:**  `0xcd`  
+**Byte representation:** `0xcd`  
 **Short description:** Fail the script immediately.
 :::
 

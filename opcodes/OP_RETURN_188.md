@@ -1,7 +1,7 @@
 # OP_RETURN_188
 :::info
 **Opcode number:** 188  
-**Byte representation:**  `0xbc`  
+**Byte representation:** `0xbc`  
 **Short description:** Fail the script immediately.
 :::
 

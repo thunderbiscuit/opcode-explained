@@ -1,7 +1,7 @@
 # OP_RETURN_197
 :::info
 **Opcode number:** 197  
-**Byte representation:**  `0xc5`  
+**Byte representation:** `0xc5`  
 **Short description:** Fail the script immediately.
 :::
 

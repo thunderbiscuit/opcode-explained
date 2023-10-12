@@ -1,7 +1,7 @@
 # OP_PUSHBYTES_13
 :::info
 **Opcode number:** 13  
-**Byte representation:**  `0x0d`  
+**Byte representation:** `0x0d`  
 **Short Description:** Push the next 13 bytes onto the stack. 
 :::
 

@@ -1,7 +1,7 @@
 # OP_PUSHBYTES_60
 :::info
 **Opcode number:** 60  
-**Byte representation:**  `0x3c`  
+**Byte representation:** `0x3c`  
 **Short description:** Push the next 60 bytes onto the stack. 
 :::
 
