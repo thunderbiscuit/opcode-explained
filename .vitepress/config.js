@@ -112,9 +112,9 @@ export default defineConfig({
         { text: "<code>[ 98 ]</code>&nbsp;&nbsp; OP_VER", link: "/opcodes/OP_VER.md" },
         { text: "<code>[ 99 ]</code>&nbsp;&nbsp; OP_IF", link: "/opcodes/OP_IF.md" },
         { text: "<code>[ 100 ]</code>&nbsp;&nbsp; OP_NOTIF", link: "/opcodes/OP_NOTIF.md" },
-        
-        { text: "🚧 101 OP_VERIF 🚧", link: "/opcodes/WIP.md" },
-        { text: "🚧 102 OP_VERNOTIF 🚧", link: "/opcodes/WIP.md" },
+        { text: "<code>[ 101 ]</code>&nbsp;&nbsp; OP_VERIF", link: "/opcodes/OP_VERIF.md" },
+        { text: "<code>[ 102 ]</code>&nbsp;&nbsp; OP_VERNOTIF", link: "/opcodes/OP_VERNOTIF.md" },
+
         { text: "🚧 103 OP_ELSE 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 104 OP_ENDIF 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 105 OP_VERIFY 🚧", link: "/opcodes/WIP.md" },
