@@ -111,8 +111,8 @@ export default defineConfig({
         { text: "<code>[ 97 ]</code>&nbsp;&nbsp; OP_NOP", link: "/opcodes/OP_NOP.md" },
         { text: "<code>[ 98 ]</code>&nbsp;&nbsp; OP_VER", link: "/opcodes/OP_VER.md" },
         { text: "<code>[ 99 ]</code>&nbsp;&nbsp; OP_IF", link: "/opcodes/OP_IF.md" },
+        { text: "<code>[ 100 ]</code>&nbsp;&nbsp; OP_NOTIF", link: "/opcodes/OP_NOTIF.md" },
         
-        { text: "🚧 100 OP_NOTIF 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 101 OP_VERIF 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 102 OP_VERNOTIF 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 103 OP_ELSE 🚧", link: "/opcodes/WIP.md" },
