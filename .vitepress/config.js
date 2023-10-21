@@ -116,8 +116,8 @@ export default defineConfig({
         { text: "<code>[ 102 ]</code>&nbsp;&nbsp; OP_VERNOTIF", link: "/opcodes/OP_VERNOTIF.md" },
         { text: "<code>[ 103 ]</code>&nbsp;&nbsp; OP_ELSE", link: "/opcodes/OP_ELSE.md" },
         { text: "<code>[ 104 ]</code>&nbsp;&nbsp; OP_ENDIF", link: "/opcodes/OP_ENDIF.md" },
+        { text: "<code>[ 105 ]</code>&nbsp;&nbsp; OP_VERIFY", link: "/opcodes/OP_VERIFY.md" },
         
-        { text: "🚧 105 OP_VERIFY 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 106 OP_RETURN 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 107 OP_TOALTSTACK 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 108 OP_FROMALTSTACK 🚧", link: "/opcodes/WIP.md" },
