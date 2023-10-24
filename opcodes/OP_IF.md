@@ -13,7 +13,6 @@
 3. If the item is `0`, skip the following opcodes until an `OP_ELSE` or `OP_ENDIF` is encountered.
 
 You'll see it used like so:
-
 ```txt
 <condition> OP_IF
     <script if condition is true>

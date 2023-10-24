@@ -147,8 +147,8 @@ export default defineConfig({
         { text: "🚧 130 OP_SIZE 🚧", link: "/opcodes/WIP.md" },
         
         { text: "<code>[ 131 ]</code>&nbsp;&nbsp; OP_INVERT", link: "/opcodes/OP_INVERT.md" },
+        { text: "<code>[ 132 ]</code>&nbsp;&nbsp; OP_AND", link: "/opcodes/OP_AND.md" },
         
-        { text: "🚧 132 OP_AND 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 133 OP_OR 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 134 OP_XOR 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 135 OP_EQUAL 🚧", link: "/opcodes/WIP.md" },
