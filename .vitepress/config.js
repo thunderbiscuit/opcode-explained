@@ -140,8 +140,8 @@ export default defineConfig({
         { text: "🚧 125 OP_TUCK 🚧", link: "/opcodes/WIP.md" },
         
         { text: "<code>[ 126 ]</code>&nbsp;&nbsp; OP_CAT", link: "/opcodes/OP_CAT.md" },
-        
-        { text: "🚧 127 OP_SUBSTR 🚧", link: "/opcodes/WIP.md" },
+        { text: "<code>[ 127 ]</code>&nbsp;&nbsp; OP_SUBSTR", link: "/opcodes/OP_SUBSTR.md" },
+
         { text: "🚧 128 OP_LEFT 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 129 OP_RIGHT 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 130 OP_SIZE 🚧", link: "/opcodes/WIP.md" },
