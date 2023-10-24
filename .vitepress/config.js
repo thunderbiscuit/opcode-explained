@@ -138,7 +138,9 @@ export default defineConfig({
         { text: "🚧 123 OP_ROT 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 124 OP_SWAP 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 125 OP_TUCK 🚧", link: "/opcodes/WIP.md" },
-        { text: "🚧 126 OP_CAT 🚧", link: "/opcodes/WIP.md" },
+        
+        { text: "<code>[ 126 ]</code>&nbsp;&nbsp; OP_CAT", link: "/opcodes/OP_CAT.md" },
+        
         { text: "🚧 127 OP_SUBSTR 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 128 OP_LEFT 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 129 OP_RIGHT 🚧", link: "/opcodes/WIP.md" },
