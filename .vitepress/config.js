@@ -142,10 +142,12 @@ export default defineConfig({
         { text: "<code>[ 126 ]</code>&nbsp;&nbsp; OP_CAT", link: "/opcodes/OP_CAT.md" },
         { text: "<code>[ 127 ]</code>&nbsp;&nbsp; OP_SUBSTR", link: "/opcodes/OP_SUBSTR.md" },
         { text: "<code>[ 128 ]</code>&nbsp;&nbsp; OP_LEFT", link: "/opcodes/OP_LEFT.md" },
+        { text: "<code>[ 129 ]</code>&nbsp;&nbsp; OP_RIGHT", link: "/opcodes/OP_RIGHT.md" },
         
-        { text: "🚧 129 OP_RIGHT 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 130 OP_SIZE 🚧", link: "/opcodes/WIP.md" },
-        { text: "🚧 131 OP_INVERT 🚧", link: "/opcodes/WIP.md" },
+        
+        { text: "<code>[ 131 ]</code>&nbsp;&nbsp; OP_INVERT", link: "/opcodes/OP_INVERT.md" },
+        
         { text: "🚧 132 OP_AND 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 133 OP_OR 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 134 OP_XOR 🚧", link: "/opcodes/WIP.md" },
