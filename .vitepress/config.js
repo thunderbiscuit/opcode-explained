@@ -148,8 +148,8 @@ export default defineConfig({
         
         { text: "<code>[ 131 ]</code>&nbsp;&nbsp; OP_INVERT", link: "/opcodes/OP_INVERT.md" },
         { text: "<code>[ 132 ]</code>&nbsp;&nbsp; OP_AND", link: "/opcodes/OP_AND.md" },
+        { text: "<code>[ 133 ]</code>&nbsp;&nbsp; OP_OR", link: "/opcodes/OP_OR.md" },
         
-        { text: "🚧 133 OP_OR 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 134 OP_XOR 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 135 OP_EQUAL 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 136 OP_EQUALVERIFY 🚧", link: "/opcodes/WIP.md" },
