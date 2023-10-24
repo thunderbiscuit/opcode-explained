@@ -7,17 +7,22 @@ hero:
   tagline: "Documenting bitcoin opcodes, one at a time."
   # actions:
   #   - theme: brand
-  #     text: Markdown Examples
-  #     link: /markdown-examples
+  #     text: All Opcodes
+  #     link: /opcodes/
   #   - theme: alt
-  #     text: API Examples
-  #     link: /api-examples
+  #     text: Learn More about Script
+  #     link: /overview/
 
-# features:
-#   - title: Feature A
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature B
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature C
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+features:
+  - title: All opcodes
+    details: A small ecyclopedia of all current opcodes.
+    link: /opcodes/
+
+  - title: Learn more about bitcoin script
+    details: More documentation on the nitty gritty of the bitcoin scripting language.
+    link: /overview/
+
+  # - title: Proposed opcodes
+  #   details: Articles covering some opcode proposals
+  #   link: /proposedopcodes/ 
 ---
