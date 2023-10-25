@@ -5,7 +5,7 @@
 **Short Description:** Push the number 2 onto the stack.  
 :::
 
-The `OP_2` opcode will push `0x02` onto the stack. This opcode uses the [minimally encoded integers format](../overview/numbers.md#minimally-encoded-integers).
+The `OP_2` opcode will push `0x02` onto the stack. This opcode uses the [minimally encoded integers format](../script/numbers.md#minimally-encoded-integers).
 
 ## Examples
 ### Example 1

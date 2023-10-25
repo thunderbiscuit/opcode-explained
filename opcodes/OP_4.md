@@ -5,7 +5,7 @@
 **Short Description:** Push the number 4 onto the stack.  
 :::
 
-The `OP_4` opcode will push `0x04` onto the stack. This opcode uses the [minimally encoded integers format](../overview/numbers.md#minimally-encoded-integers).
+The `OP_4` opcode will push `0x04` onto the stack. This opcode uses the [minimally encoded integers format](../script/numbers.md#minimally-encoded-integers).
 
 ## Examples
 ### Example 1

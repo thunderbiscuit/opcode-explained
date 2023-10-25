@@ -5,7 +5,7 @@
 **Short description:** Fail the script unconditionally, does not even need to be executed.
 :::
 
-`OP_AND` is a disabled opcode in the Bitcoin scripting system.
+`OP_AND` is a disabled opcode in the bitcoin scripting system.
 
 ### Historical Context
 Initially, the `OP_AND` opcode was designed to perform a bitwise AND operation on the top two items on the stack. This means it would take two numbers and return a new number, where each bit in the result is the logical AND of the corresponding bits in the input numbers.

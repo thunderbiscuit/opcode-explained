@@ -5,7 +5,7 @@
 **Short Description:** Push the number 9 onto the stack.  
 :::
 
-The `OP_9` opcode will push `0x09` onto the stack. This opcode uses the [minimally encoded integers format](../overview/numbers.md#minimally-encoded-integers).
+The `OP_9` opcode will push `0x09` onto the stack. This opcode uses the [minimally encoded integers format](../script/numbers.md#minimally-encoded-integers).
 
 ## Examples
 ### Example 1

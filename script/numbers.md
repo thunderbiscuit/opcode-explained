@@ -4,7 +4,7 @@ Bitcoin script reads numbers in little endian format. For example, when using `O
 
 ## Minimally encoded integers
 :::danger 
-This section has not been reviewed by bitcoin script experts yet! It was half written by ChatGPT-4 and as far as I can tell it's correct but I would appreciate review. If you can help, [please open an issue or pull request on the repository](https://github.com/thunderbiscuit/opcode-explained).
+This section has not been reviewed by bitcoin script experts yet! It's a mix of bitcoin Stack Overflow, ChatGPT-4, and my own understanding, and as far as I can tell it's correct but I would appreciate review. If you can help, [please open an issue or pull request on the repository](https://github.com/thunderbiscuit/opcode-explained).
 :::
 
 <br>

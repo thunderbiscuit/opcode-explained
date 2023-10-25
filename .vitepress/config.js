@@ -6,7 +6,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: "Opcodes", link: "/opcodes/", activeMatch: "/opcodes/" },
-      { text: "More", link: "/overview/script-success.md", activeMatch: "/overview" }
+      { text: "Script", link: "/script/", activeMatch: "/script/" }
     ],
 
     sidebar: {
@@ -281,10 +281,10 @@ export default defineConfig({
         { text: "🚧 255 OP_INVALIDOPCODE 🚧", link: "/opcodes/WIP.md" },
       ],
       
-      "/overview/": [
-        { text: "Bitcoin Script Success/Failure", link: "/overview/script-success.md" },
-        { text: "ASM Representation", link: "/overview/asm.md" },
-        { text: "Numbers in Script", link: "/overview/numbers.md" },
+      "/script/": [
+        { text: "Script Success and Failure", link: "/script/script.md" },
+        { text: "ASM Representation", link: "/script/asm.md" },
+        { text: "Numbers in Script", link: "/script/numbers.md" },
       ]
     },
     
