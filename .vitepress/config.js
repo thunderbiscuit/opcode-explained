@@ -159,7 +159,7 @@ export default defineConfig({
         { text: "🚧 140 OP_1SUB 🚧", link: "/opcodes/WIP.md" },
         
         { text: "<code>[ 141 ]</code>&nbsp;&nbsp; OP_2MUL", link: "/opcodes/OP_2MUL.md" },
-        { text: "🚧 142 OP_2DIV 🚧", link: "/opcodes/WIP.md" },
+        { text: "<code>[ 142 ]</code>&nbsp;&nbsp; OP_2DIV", link: "/opcodes/OP_2DIV.md" },
         
         { text: "🚧 143 OP_NEGATE 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 144 OP_ABS 🚧", link: "/opcodes/WIP.md" },
