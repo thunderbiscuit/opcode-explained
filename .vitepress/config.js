@@ -157,8 +157,10 @@ export default defineConfig({
         { text: "🚧 138 OP_RESERVED2 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 139 OP_1ADD 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 140 OP_1SUB 🚧", link: "/opcodes/WIP.md" },
-        { text: "🚧 141 OP_2MUL 🚧", link: "/opcodes/WIP.md" },
+        
+        { text: "<code>[ 141 ]</code>&nbsp;&nbsp; OP_2MUL", link: "/opcodes/OP_2MUL.md" },
         { text: "🚧 142 OP_2DIV 🚧", link: "/opcodes/WIP.md" },
+        
         { text: "🚧 143 OP_NEGATE 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 144 OP_ABS 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 145 OP_NOT 🚧", link: "/opcodes/WIP.md" },
