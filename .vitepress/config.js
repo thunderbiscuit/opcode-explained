@@ -174,8 +174,8 @@ export default defineConfig({
         { text: "<code>[ 150 ]</code>&nbsp;&nbsp; OP_DIV", link: "/opcodes/OP_DIV.md" },
         { text: "<code>[ 151 ]</code>&nbsp;&nbsp; OP_MOD", link: "/opcodes/OP_MOD.md" },
         { text: "<code>[ 152 ]</code>&nbsp;&nbsp; OP_LSHIFT", link: "/opcodes/OP_LSHIFT.md" },
+        { text: "<code>[ 153 ]</code>&nbsp;&nbsp; OP_RSHIFT", link: "/opcodes/OP_RSHIFT.md" },
         
-        { text: "🚧 153 OP_RSHIFT 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 154 OP_BOOLAND 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 155 OP_BOOLOR 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 156 OP_NUMEQUAL 🚧", link: "/opcodes/WIP.md" },
