@@ -170,9 +170,9 @@ export default defineConfig({
 
         { text: "🚧 148 OP_SUB 🚧", link: "/opcodes/WIP.md" },
         
-        { text: "<code>[ 149 ]</code>&nbsp;&nbsp;OP_MUL", link: "/opcodes/OP_MUL.md" },
+        { text: "<code>[ 149 ]</code>&nbsp;&nbsp; OP_MUL", link: "/opcodes/OP_MUL.md" },
+        { text: "<code>[ 150 ]</code>&nbsp;&nbsp; OP_DIV", link: "/opcodes/OP_DIV.md" },
         
-        { text: "🚧 150 OP_DIV 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 151 OP_MOD 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 152 OP_LSHIFT 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 153 OP_RSHIFT 🚧", link: "/opcodes/WIP.md" },
