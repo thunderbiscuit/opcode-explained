@@ -119,8 +119,8 @@ export default defineConfig({
         { text: "<code>[ 105 ]</code>&nbsp;&nbsp; OP_VERIFY", link: "/opcodes/OP_VERIFY.md" },
         { text: "<code>[ 106 ]</code>&nbsp;&nbsp; OP_RETURN", link: "/opcodes/OP_RETURN.md" },
         { text: "<code>[ 107 ]</code>&nbsp;&nbsp; OP_TOALTSTACK", link: "/opcodes/OP_TOALTSTACK.md" },
+        { text: "<code>[ 108 ]</code>&nbsp;&nbsp; OP_FROMALTSTACK", link: "/opcodes/OP_FROMALTSTACK.md" },
         
-        { text: "🚧 108 OP_FROMALTSTACK 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 109 OP_2DROP 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 110 OP_2DUP 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 111 OP_3DUP 🚧", link: "/opcodes/WIP.md" },

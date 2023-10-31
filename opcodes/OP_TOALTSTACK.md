@@ -8,7 +8,7 @@
 `OP_TOALTSTACK` is used to manipulate stack items between the main stack and an alternate stack.
 
 :::warning
-This page is not well developed. If you think you can contribute to this page, please consider helping us out by [opening a pr on the repo](https://github.com/thunderbiscuit/opcode-explained)!
+This page is not well developed. If you think you can contribute to this page, please consider helping us out by [opening a pull request on the repo](https://github.com/thunderbiscuit/opcode-explained)!
 :::
 
 ### Operation
