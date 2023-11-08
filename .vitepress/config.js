@@ -209,8 +209,8 @@ export default defineConfig({
         { text: "<code>[ 181 ]</code>&nbsp;&nbsp; OP_NOP6", link: "/opcodes/OP_NOP6.md" },
         { text: "<code>[ 182 ]</code>&nbsp;&nbsp; OP_NOP7", link: "/opcodes/OP_NOP7.md" },
         { text: "<code>[ 183 ]</code>&nbsp;&nbsp; OP_NOP8", link: "/opcodes/OP_NOP8.md" },
+        { text: "<code>[ 184 ]</code>&nbsp;&nbsp; OP_NOP9", link: "/opcodes/OP_NOP9.md" },
         
-        { text: "🚧 184 OP_NOP9 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 185 OP_NOP10 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 186 OP_CHECKSIGADD 🚧", link: "/opcodes/WIP.md" },
 
