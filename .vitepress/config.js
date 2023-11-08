@@ -4,6 +4,10 @@ export default defineConfig({
   title: "Opcode Explained",
   description: "Documenting bitcoin opcodes",
   themeConfig: {
+    search: {
+      provider: "local"
+    },
+
     nav: [
       { text: "Opcodes", link: "/opcodes/", activeMatch: "/opcodes/" },
       { text: "Script", link: "/script/", activeMatch: "/script/" }
