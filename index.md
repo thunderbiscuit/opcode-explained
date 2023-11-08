@@ -15,7 +15,7 @@ hero:
 
 features:
   - title: All opcodes
-    details: A small ecyclopedia of all current opcodes.
+    details: A small encyclopedia of all current opcodes.
     link: /opcodes/
 
   - title: Learn more about bitcoin script
