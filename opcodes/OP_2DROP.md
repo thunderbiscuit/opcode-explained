@@ -15,7 +15,7 @@
 - **Discarding Temporary Data:** In scripts where temporary values are pushed onto the stack for interim calculations, `OP_2DROP` can be used to remove them once they are no longer needed.
 
 ### Notes
-- This opcode is part of a family of opcodes ([`OP_DROP`](./OP_DROP.md), `OP_2DROP`, [`OP_2DUP`](./OP_2DUP.md), [`OP_3DUP`](./OP_3DUP.md), and a few others) designed for stack item management.
+- This opcode is part of a family of opcodes ([`OP_DROP`](#), `OP_2DROP`, [`OP_2DUP`](#), [`OP_3DUP`](#), and a few others) designed for stack item management.
 
 ## Examples
 ### Example 1

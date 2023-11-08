@@ -15,7 +15,7 @@ This page is not well developed. If you think you can contribute to this page, p
 1. Pop the top item from the main stack.
 2. Push this item onto the alternate stack.
 
-The [alternate stack](../script/alternate-stack.md) is a secondary stack that scripts can use to store data temporarily. It operates independently of the main stack, allowing for more complex script operations.
+The [alternate stack](#) is a secondary stack that scripts can use to store data temporarily. It operates independently of the main stack, allowing for more complex script operations.
 
 ### Use Cases
 - **Temporary Storage:** Scripts can use `OP_TOALTSTACK` to temporarily store data that might be needed later in the script execution. This helps in organizing data and maintaining a clear main stack.

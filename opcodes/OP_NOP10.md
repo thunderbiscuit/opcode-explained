@@ -1,12 +1,12 @@
 # OP_NOP10
-:::danger
-This page would like some review. If you'd like to contribute, take a look at the [source code for this website]!
-:::
-
 :::info
 **Opcode number:** 185  
 **Byte representation:** `0xb9`   
 **Short Description:** Does nothing. 
+:::
+
+:::danger
+This page would like some review. If you'd like to contribute, take a look at the [source code for this website]!
 :::
 
 The `OP_NOP10` opcode does nothing. It does not change the state of the stack or any of the script's execution conditions.
