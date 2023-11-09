@@ -20,7 +20,7 @@ features:
 
   - title: Learn more about bitcoin script
     details: More documentation on the nitty gritty of the bitcoin scripting language.
-    link: /overview/
+    link: /script/
 
   # - title: Proposed opcodes
   #   details: Articles covering some opcode proposals
