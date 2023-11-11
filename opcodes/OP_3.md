@@ -2,6 +2,7 @@
 :::info
 **Opcode number:** 83  
 **Byte representation:** `0x53`  
+**Other names:** `OP_PUSHNUM_3`  
 **Short Description:** Push the number 3 onto the stack.  
 :::
 

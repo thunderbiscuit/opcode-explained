@@ -2,6 +2,7 @@
 :::info
 **Opcode number:** 82  
 **Byte representation:** `0x52`  
+**Other names:** `OP_PUSHNUM_2`  
 **Short Description:** Push the number 2 onto the stack.  
 :::
 

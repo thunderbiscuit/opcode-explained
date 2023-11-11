@@ -2,6 +2,7 @@
 :::info
 **Opcode number:** 89  
 **Byte representation:** `0x59`  
+**Other names:** `OP_PUSHNUM_9`  
 **Short Description:** Push the number 9 onto the stack.  
 :::
 

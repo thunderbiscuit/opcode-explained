@@ -2,6 +2,7 @@
 :::info
 **Opcode number:** 84  
 **Byte representation:** `0x54`  
+**Other names:** `OP_PUSHNUM_4`  
 **Short Description:** Push the number 4 onto the stack.  
 :::
 

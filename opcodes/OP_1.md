@@ -2,7 +2,7 @@
 :::info
 **Opcode number:** 81  
 **Byte representation:** `0x51`  
-**Other names:** `OP_TRUE`  
+**Other names:** `OP_TRUE`, `OP_PUSHNUM_1`  
 **Short Description:** Push the number 1 onto the stack. 
 :::
 

@@ -2,6 +2,7 @@
 :::info
 **Opcode number:** 85  
 **Byte representation:** `0x55`  
+**Other names:** `OP_PUSHNUM_5`  
 **Short Description:** Push the number 5 onto the stack.  
 :::
 

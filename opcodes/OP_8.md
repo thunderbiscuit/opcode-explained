@@ -2,6 +2,7 @@
 :::info
 **Opcode number:** 88  
 **Byte representation:** `0x58`  
+**Other names:** `OP_PUSHNUM_8`  
 **Short Description:** Push the number 8 onto the stack.  
 :::
 

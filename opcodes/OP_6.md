@@ -2,6 +2,7 @@
 :::info
 **Opcode number:** 86  
 **Byte representation:** `0x56`  
+**Other names:** `OP_PUSHNUM_6`  
 **Short Description:** Push the number 6 onto the stack.  
 :::
 

@@ -2,6 +2,7 @@
 :::info
 **Opcode number:** 87  
 **Byte representation:** `0x57`  
+**Other names:** `OP_PUSHNUM_7`  
 **Short Description:** Push the number 7 onto the stack.  
 :::
 
