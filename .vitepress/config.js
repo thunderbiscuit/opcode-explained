@@ -290,6 +290,7 @@ export default defineConfig({
       ],
       
       "/script/": [
+        { text: "Script Basics", link: "/script/script_basics.md"},
         { text: "Script Success and Failure", link: "/script/script.md" },
         { text: "ASM Representation", link: "/script/asm.md" },
         { text: "Push Operators", link: "/script/push.md" },

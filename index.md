@@ -14,12 +14,11 @@ hero:
   #     link: /overview/
 
 features:
-  - title: All opcodes
-    details: A small encyclopedia of all current opcodes.
+  - title: Opcodes
+    details: An encyclopedia of all current opcodes.
     link: /opcodes/
-
-  - title: Learn more about bitcoin script
-    details: More documentation on the nitty gritty of the bitcoin scripting language.
+  - title: Script
+    details: The basics of the bitcoin scripting language.
     link: /script/
 
   # - title: Proposed opcodes
