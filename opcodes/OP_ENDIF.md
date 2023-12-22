@@ -5,17 +5,17 @@
 **Short description:** Ends a conditional block.
 :::
 
-`OP_ENDIF` is used to conclude conditional structures in Bitcoin scripting initiated by `OP_IF` or `OP_NOTIF`. It denotes the end of the conditional execution paths and allows the script to continue with any subsequent commands outside of the conditional block.
+[`OP_ENDIF`](./OP_ENDIF.md) is used to conclude conditional structures in Bitcoin scripting initiated by [`OP_IF`](./OP_IF.md) or [`OP_NOTIF`](./OP_NOTIF.md). It denotes the end of the conditional execution paths and allows the script to continue with any subsequent commands outside of the conditional block.
 
 ### Operation
-1. Continue executing the following opcodes in the script after the `OP_ENDIF`.
+1. Continue executing the following opcodes in the script after the [`OP_ENDIF`](./OP_ENDIF.md).
 
-Note that `OP_ENDIF` itself does not directly cause any action other than marking the end of the conditional segment. Its presence ensures that the preceding conditional logic (whether that's an `OP_IF`, `OP_NOTIF`, or an accompanying `OP_ELSE`) has been properly closed.
+Note that [`OP_ENDIF`](./OP_ENDIF.md) itself does not directly cause any action other than marking the end of the conditional segment. Its presence ensures that the preceding conditional logic (whether that's an [`OP_IF`](./OP_IF.md), [`OP_NOTIF`](./OP_NOTIF.md), or an accompanying [`OP_ELSE`](./OP_ELSE.md)) has been properly closed.
 
 ## Notes
-- Each `OP_IF` or `OP_NOTIF` must have a corresponding `OP_ENDIF`. Failing to do so will render the script invalid.
-- A script can have nested `OP_IF`/`OP_NOTIF` structures, but each of them must be properly closed with their own `OP_ENDIF`.
-- A script with an `OP_ENDIF` without a preceding `OP_IF` or `OP_NOTIF` is also invalid.
+- Each [`OP_IF`](./OP_IF.md) or [`OP_NOTIF`](./OP_NOTIF.md) must have a corresponding [`OP_ENDIF`](./OP_ENDIF.md). Failing to do so will render the script invalid.
+- A script can have nested [`OP_IF`](./OP_IF.md)/[`OP_NOTIF`](./OP_NOTIF.md) structures, but each of them must be properly closed with their own [`OP_ENDIF`](./OP_ENDIF.md).
+- A script with an [`OP_ENDIF`](./OP_ENDIF.md) without a preceding [`OP_IF`](./OP_IF.md) or [`OP_NOTIF`](./OP_NOTIF.md) is also invalid.
 
 ## Examples
 ### Example 1

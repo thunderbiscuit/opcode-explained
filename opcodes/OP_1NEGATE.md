@@ -5,7 +5,7 @@
 **Short Description:** Push the number -1 onto the stack.  
 :::
 
-The `OP_1NEGATE` opcode will push `0x81` (representing -1 in the context of script execution) onto the stack. This opcode utilizes the [minimally encoded integers format](../script/numbers.md#minimally-encoded-integers).
+The [`OP_1NEGATE`](./OP_1NEGATE.md) opcode will push `0x81` (representing -1 in the context of script execution) onto the stack. This opcode utilizes the [minimally encoded integers format](../script/numbers.md#minimally-encoded-integers).
 
 ## Examples
 ### Example 1
@@ -33,4 +33,4 @@ OP_8 OP_1NEGATE OP_ADD
 7
 ```
 
-In the first example, we have a script with two `OP_1NEGATE` opcodes. After execution, we have two -1s on the stack. In the second example, we add another opcode, `OP_ADD`, to the script. The `OP_ADD` opcode will remove the two top items from the stack, add them together, and then push the result back onto the stack. 8 + (-1) results in 7, which is then pushed onto the stack.
+In the first example, we have a script with two [`OP_1NEGATE`](./OP_1NEGATE.md) opcodes. After execution, we have two -1s on the stack. In the second example, we add another opcode, [`OP_ADD`](./OP_ADD.md), to the script. The [`OP_ADD`](./OP_ADD.md) opcode will remove the two top items from the stack, add them together, and then push the result back onto the stack. 8 + (-1) results in 7, which is then pushed onto the stack.

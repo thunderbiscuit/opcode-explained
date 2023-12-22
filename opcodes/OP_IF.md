@@ -5,12 +5,12 @@
 **Short description:** Pop and execute the next statements if a nonzero element was popped.
 :::
 
-`OP_IF` is used to perform conditional execution. Scripts in Bitcoin can contain branches—parts of the script that are executed only if certain conditions are met. The `OP_IF` opcode allows the script to evaluate a value and conditionally execute the following script commands based on that value.
+[`OP_IF`](./OP_IF.md) is used to perform conditional execution. Scripts in Bitcoin can contain branches—parts of the script that are executed only if certain conditions are met. The [`OP_IF`](./OP_IF.md) opcode allows the script to evaluate a value and conditionally execute the following script commands based on that value.
 
 ### Operation
 1. Pop the top stack item.
 2. If the item is not `0`, execute the following opcodes until an [`OP_ELSE`](./OP_ELSE.md) or [`OP_ENDIF`](./OP_ENDIF.md) is encountered.
-3. If the item is `0`, skip the following opcodes until an `OP_ELSE` or `OP_ENDIF` is encountered.
+3. If the item is `0`, skip the following opcodes until an [`OP_ELSE`](./OP_ELSE.md) or [`OP_ENDIF`](./OP_ENDIF.md) is encountered.
 
 You'll see it used like so:
 ```txt
@@ -25,7 +25,7 @@ Where `<condition>` is some operation or value that will leave a `0` or non-`0` 
 
 ## Notes
 - Bitcoin script does not support loop structures, so all conditional logic is based on branches.
-- The script will fail and not complete if there is no matching `OP_ENDIF` for an `OP_IF`.
+- The script will fail and not complete if there is no matching [`OP_ENDIF`](./OP_ENDIF.md) for an [`OP_IF`](./OP_IF.md).
 
 ## Examples
 ### Example 1

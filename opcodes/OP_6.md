@@ -6,7 +6,7 @@
 **Short Description:** Push the number 6 onto the stack.  
 :::
 
-The `OP_6` opcode will push `0x06` onto the stack. This opcode uses the [minimally encoded integers format](../script/numbers.md#minimally-encoded-integers).
+The [`OP_6`](./OP_6.md) opcode will push `0x06` onto the stack. This opcode uses the [minimally encoded integers format](../script/numbers.md#minimally-encoded-integers).
 
 ## Examples
 ### Example 1

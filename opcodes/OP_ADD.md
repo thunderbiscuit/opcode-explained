@@ -5,9 +5,9 @@
 **Short Description:** Pop two stack items and push their sum.  
 :::
 
-`OP_ADD` adds two numbers together and returns their sum on the stack.
+[`OP_ADD`](./OP_ADD.md) adds two numbers together and returns their sum on the stack.
 
-The execution of the `OP_ADD` opcode involves three steps:
+The execution of the [`OP_ADD`](./OP_ADD.md) opcode involves three steps:
 1. Pop the top item from the stack.
 2. Pop the next top item from the stack.
 3. Add these two items together, and push the result back onto the stack.
