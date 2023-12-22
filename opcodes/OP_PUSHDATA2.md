@@ -5,9 +5,9 @@
 **Short description:** Read the next 2 bytes as `N`. Push the next `N` bytes as an array onto the stack.
 :::
 
-The `OP_PUSHDATA2` opcode will read the 2 bytes that follow it and interpret them as an integer. It will then push the next number of bytes this integer specifies onto the stack. Because it reads 2 bytes and inteprets them as a number, this opcode can push any number of bytes from 0 to 65,535, though consensus rules only allow at most 520 bytes in one push. Note that for any number of bytes between 76 and 255, it is more efficient (and required by standardness rules) to use `OP_PUSHDATA1`, and for any number of bytes under 76, opcodes in the `OP_PUSHBYTES` family, or more specific opcodes where applicable (see [minimal push operations](../script/push.md#minimal-push-operations)).
+The [`OP_PUSHDATA2`](./OP_PUSHDATA2.md) opcode will read the 2 bytes that follow it and interpret them as an integer. It will then push the next number of bytes this integer specifies onto the stack. Because it reads 2 bytes and inteprets them as a number, this opcode can push any number of bytes from 0 to 65,535, though consensus rules only allow at most 520 bytes in one push. Note that for any number of bytes between 76 and 255, it is more efficient (and required by standardness rules) to use [`OP_PUSHDATA1`](./OP_PUSHDATA1.md), and for any number of bytes under 76, opcodes in the `OP_PUSHBYTES` family, or more specific opcodes where applicable (see [minimal push operations](../script/push.md#minimal-push-operations)).
 
-`OP_PUSHDATA2` is part of a group of 3 opcodes that push a custom, user-specified number of bytes onto the stack (its sibling opcodes are [OP_PUSHDATA1](./OP_PUSHDATA1.md) and [OP_PUSHDATA4](./OP_PUSHDATA4.md)).
+[`OP_PUSHDATA2`](./OP_PUSHDATA2.md) is part of a group of 3 opcodes that push a custom, user-specified number of bytes onto the stack (its sibling opcodes are [OP_PUSHDATA1](./OP_PUSHDATA1.md) and [OP_PUSHDATA4](./OP_PUSHDATA4.md)).
 
 ## Example
 This example pushes 400 bytes to the stack.

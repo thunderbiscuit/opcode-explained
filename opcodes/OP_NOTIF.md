@@ -5,7 +5,7 @@
 **Short description:** Pop and execute the next statements if a zero element was popped.
 :::
 
-`OP_NOTIF` is used to perform conditional execution, similar to [`OP_IF`](./OP_IF.md) but operates inversely. Scripts will execute the next segment if a zero element is popped from the stack.
+[`OP_NOTIF`](./OP_NOTIF.md) is used to perform conditional execution, similar to [`OP_IF`](./OP_IF.md) but operates inversely. Scripts will execute the next segment if a zero element is popped from the stack.
 
 ### Operation
 1. Pop the top stack item.

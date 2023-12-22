@@ -5,7 +5,7 @@
 **Short description:** Moves the top item from the alternate stack to the main stack.
 :::
 
-`OP_FROMALTSTACK` is used for transferring data between the alternate stack and the main stack.
+[`OP_FROMALTSTACK`](./OP_FROMALTSTACK.md) is used for transferring data between the alternate stack and the main stack.
 
 :::warning
 This page is not well developed. If you think you can contribute to this page, please consider helping us out by [opening a pull request on the repo](https://github.com/thunderbiscuit/opcode-explained)!
@@ -18,12 +18,12 @@ This page is not well developed. If you think you can contribute to this page, p
 The alternate stack serves as a secondary storage space during script execution, separate from the main stack. This opcode enables the movement of data from this auxiliary stack back to the main stack.
 
 ### Use Cases
-- **Retrieving Data:** Scripts can use `OP_FROMALTSTACK` to retrieve data previously stored on the alternate stack, allowing for more intricate scripting logic.
+- **Retrieving Data:** Scripts can use [`OP_FROMALTSTACK`](./OP_FROMALTSTACK.md) to retrieve data previously stored on the alternate stack, allowing for more intricate scripting logic.
 - **Script Organization:** By using both the main and alternate stacks, scripts can maintain cleaner and more organized operations, especially in complex scripts.
 
 ### Notes
 - The alternate stack is an essential tool for complex script logic, enabling temporary storage and retrieval of data.
-- `OP_FROMALTSTACK` is commonly used in conjunction with [`OP_TOALTSTACK`](./OP_TOALTSTACK.md) for effective data manipulation between the two stacks.
+- [`OP_FROMALTSTACK`](./OP_FROMALTSTACK.md) is commonly used in conjunction with [`OP_TOALTSTACK`](./OP_TOALTSTACK.md) for effective data manipulation between the two stacks.
 
 ## Examples
 ### Example 1

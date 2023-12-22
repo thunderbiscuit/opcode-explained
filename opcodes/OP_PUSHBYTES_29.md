@@ -5,7 +5,7 @@
 **Short Description:** Push the next 29 bytes onto the stack. 
 :::
 
-The `OP_PUSHBYTES_29` opcode will push the following 29 bytes onto the stack. It's part of a group of opcodes that push a specific number of bytes onto the stack, from [OP_PUSHBYTES_1](./OP_PUSHBYTES_1.md) to [OP_PUSHBYTES_75](./OP_PUSHBYTES_75.md).
+The [`OP_PUSHBYTES_29`](./OP_PUSHBYTES_29.md) opcode will push the following 29 bytes onto the stack. It's part of a group of opcodes that push a specific number of bytes onto the stack, from [OP_PUSHBYTES_1](./OP_PUSHBYTES_1.md) to [OP_PUSHBYTES_75](./OP_PUSHBYTES_75.md).
 
 ## Example
 ```shell

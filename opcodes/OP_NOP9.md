@@ -9,7 +9,7 @@ This page would like some review. If you'd like to contribute, take a look at th
 **Short Description:** Does nothing. 
 :::
 
-The `OP_NOP9` opcode does nothing. It does not change the state of the stack or any of the script's execution conditions.
+The [`OP_NOP9`](./OP_NOP9.md) opcode does nothing. It does not change the state of the stack or any of the script's execution conditions.
 
 ## Examples
 ### Example 1

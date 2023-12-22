@@ -6,7 +6,7 @@
 **Short Description:** Push the number 1 onto the stack. 
 :::
 
-The `OP_1` opcode, which corresponds to the byte `0x51`, pushes the number 1 onto the stack. `OP_1`` is a fundamental opcode in Bitcoin Script, enabling a variety of operations and serving as a building block for more complex scripts.
+The [`OP_1`](./OP_1.md) opcode, which corresponds to the byte `0x51`, pushes the number 1 onto the stack. [`OP_1`](./OP_1.md)` is a fundamental opcode in Bitcoin Script, enabling a variety of operations and serving as a building block for more complex scripts.
 
 ## Examples
 ### Example 1

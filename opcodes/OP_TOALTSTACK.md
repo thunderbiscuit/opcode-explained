@@ -5,7 +5,7 @@
 **Short description:** Move the top item from the main stack to the alternate stack.
 :::
 
-`OP_TOALTSTACK` is used to manipulate stack items between the main stack and an alternate stack.
+[`OP_TOALTSTACK`](./OP_TOALTSTACK.md) is used to manipulate stack items between the main stack and an alternate stack.
 
 :::warning
 This page is not well developed. If you think you can contribute to this page, please consider helping us out by [opening a pull request on the repo](https://github.com/thunderbiscuit/opcode-explained)!
@@ -18,13 +18,13 @@ This page is not well developed. If you think you can contribute to this page, p
 The [alternate stack](#) is a secondary stack that scripts can use to store data temporarily. It operates independently of the main stack, allowing for more complex script operations.
 
 ### Use Cases
-- **Temporary Storage:** Scripts can use `OP_TOALTSTACK` to temporarily store data that might be needed later in the script execution. This helps in organizing data and maintaining a clear main stack.
-- **Complex Script Logic:** In scripts that require intricate logic and multiple steps, `OP_TOALTSTACK` allows for better management of stack items and cleaner script execution.
+- **Temporary Storage:** Scripts can use [`OP_TOALTSTACK`](./OP_TOALTSTACK.md) to temporarily store data that might be needed later in the script execution. This helps in organizing data and maintaining a clear main stack.
+- **Complex Script Logic:** In scripts that require intricate logic and multiple steps, [`OP_TOALTSTACK`](./OP_TOALTSTACK.md) allows for better management of stack items and cleaner script execution.
 
 
 ### Notes
 - The alternate stack is not visible in script execution unless accessed explicitly.
-- `OP_TOALTSTACK` is often used in conjunction with [`OP_FROMALTSTACK`](./OP_FROMALTSTACK.md) to move items back to the main stack when needed.
+- [`OP_TOALTSTACK`](./OP_TOALTSTACK.md) is often used in conjunction with [`OP_FROMALTSTACK`](./OP_FROMALTSTACK.md) to move items back to the main stack when needed.
 
 ## Examples
 ### Example 1
