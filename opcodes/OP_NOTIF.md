@@ -10,7 +10,7 @@
 ### Operation
 1. Pop the top stack item.
 2. If the item is `0`, execute the following opcodes until an [`OP_ELSE`](./OP_ELSE.md) or [`OP_ENDIF`](./OP_ENDIF.md) is encountered.
-3. If the item is non-`0``, skip the following opcodes until an `OP_ELSE` or `OP_ENDIF` is encountered.
+3. If the item is non-`0`, skip the following opcodes until an [`OP_ELSE`](./OP_ELSE.md) or [`OP_ENDIF`](./OP_ENDIF.md) is encountered.
 
 You'll see it used like so:
 ```txt
@@ -24,7 +24,7 @@ OP_ENDIF
 Where `<condition>` is some operation or value that will leave a `0` or non-`0` value on top of the stack.
 
 ## Notes
-- As with `OP_IF`, if there's no matching `OP_ENDIF` for an `OP_NOTIF`, the script will fail.
+- As with [`OP_IF`](./OP_IF.md), if there's no matching [`OP_ENDIF`](./OP_ENDIF.md) for an [`OP_NOTIF`](./OP_NOTIF.md), the script will fail.
 
 ## Examples
 ### Example 1
