@@ -9,7 +9,7 @@ This page would like some review. If you'd like to contribute, take a look at th
 **Short Description:** Does nothing. 
 :::
 
-The `OP_NOP5` opcode does nothing.
+The [`OP_NOP5`](./OP_NOP5.md) opcode does nothing.
 
 ## Examples
 ### Example 1

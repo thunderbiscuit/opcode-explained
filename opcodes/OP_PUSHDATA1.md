@@ -5,9 +5,9 @@
 **Short description:** Read the next byte as `N`. Push the next `N` bytes as an array onto the stack.
 :::
 
-The `OP_PUSHDATA1` opcode will read the byte that follows it and interpret it as an integer. It will then push the next number of bytes this integer specifies onto the stack. Because it reads a single byte and inteprets it as a number, this opcode can push any number of bytes from 0 to 255. Note that for any number of bytes under 76, it is more efficient (and required by standardness rules) to use opcodes in the `OP_PUSHBYTES` family, or more specific opcodes where applicable (see [minimal push operations](../script/push.md#minimal-push-operations)).
+The [`OP_PUSHDATA1`](./OP_PUSHDATA1.md) opcode will read the byte that follows it and interpret it as an integer. It will then push the next number of bytes this integer specifies onto the stack. Because it reads a single byte and inteprets it as a number, this opcode can push any number of bytes from 0 to 255. Note that for any number of bytes under 76, it is more efficient (and required by standardness rules) to use opcodes in the `OP_PUSHBYTES` family, or more specific opcodes where applicable (see [minimal push operations](../script/push.md#minimal-push-operations)).
 
-`OP_PUSHDATA1` is part of a group of 3 opcodes that push a custom, user-specified number of bytes onto the stack (its sibling opcodes are [OP_PUSHDATA2](./OP_PUSHDATA2.md) and [OP_PUSHDATA4](./OP_PUSHDATA4.md)).
+[`OP_PUSHDATA1`](./OP_PUSHDATA1.md) is part of a group of 3 opcodes that push a custom, user-specified number of bytes onto the stack (its sibling opcodes are [OP_PUSHDATA2](./OP_PUSHDATA2.md) and [OP_PUSHDATA4](./OP_PUSHDATA4.md)).
 
 ## Example
 ```shell
