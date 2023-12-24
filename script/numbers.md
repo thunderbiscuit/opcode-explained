@@ -1,6 +1,6 @@
 # Numbers in Script
 ## Little endian
-Bitcoin script reads numbers in little endian format. For example, when using `OP_PUSHDATA2` and providing 2 following bytes that must be interpreted as an integer for the number of following bytes to push on the stack, the number 400 would be encoded as `9001` (400 in hexadecimal is `0190`, which reversed in little endian becomes `9001`).
+Bitcoin script reads numbers in little endian format. For example, when using [`OP_PUSHDATA2`](../opcodes/OP_PUSHDATA2.md) and providing 2 following bytes that must be interpreted as an integer for the number of following bytes to push on the stack, the number 400 would be encoded as `9001` (400 in hexadecimal is `0190`, which reversed in little endian becomes `9001`).
 
 ## Minimally encoded integers
 :::danger 
@@ -9,7 +9,7 @@ This section has not been reviewed by bitcoin script experts yet! It's a mix of 
 
 <br>
 
-Number-related opcodes like `OP_2`, `OP_16`, `OP_1NEGATE`, etc. in Script use _minimally encoded integers_.
+Number-related opcodes like [`OP_2`](../opcodes/OP_2.md), [`OP_16`](../opcodes/OP_16.md), [`OP_1NEGATE`](../opcodes/OP_1NEGATE.md), etc. in Script use _minimally encoded integers_.
 
 The concept of minimally encoded integers is specific to bitcoin's Script system and it's part of an effort to make the system more efficient.
 
