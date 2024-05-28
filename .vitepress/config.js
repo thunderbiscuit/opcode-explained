@@ -1,6 +1,4 @@
-import { defineConfig } from "vitepress"
-
-export default defineConfig({
+export default {
   title: "Opcode Explained",
   description: "Documenting bitcoin opcodes",
   themeConfig: {
@@ -302,4 +300,4 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/thunderbiscuit/opcode-explained" }
     ]
   }
-})
+}
