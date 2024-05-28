@@ -1,6 +1,6 @@
 # OP_2DUP
 :::info
-**Opcode number:** 110
+**Opcode number:** 110  
 **Byte representation:** `0x6e`  
 **Short description:** Duplicates the top two stack items.
 :::
