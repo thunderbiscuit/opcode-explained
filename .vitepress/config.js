@@ -125,8 +125,8 @@ export default {
         { text: "<code>[ 109 ]</code>&nbsp;&nbsp; OP_2DROP", link: "/opcodes/OP_2DROP.md" },
         { text: "<code>[ 110 ]</code>&nbsp;&nbsp; OP_2DUP", link: "/opcodes/OP_2DUP.md" },
         { text: "<code>[ 111 ]</code>&nbsp;&nbsp; OP_3DUP", link: "/opcodes/OP_3DUP.md" },
+        { text: "<code>[ 112 ]</code>&nbsp;&nbsp; OP_2OVER", link: "/opcodes/OP_2OVER.md" },
         
-        { text: "🚧 112 OP_2OVER 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 113 OP_2ROT 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 114 OP_2SWAP 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 115 OP_IFDUP 🚧", link: "/opcodes/WIP.md" },
@@ -134,7 +134,9 @@ export default {
         { text: "🚧 117 OP_DROP 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 118 OP_DUP 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 119 OP_NIP 🚧", link: "/opcodes/WIP.md" },
-        { text: "🚧 120 OP_OVER 🚧", link: "/opcodes/WIP.md" },
+        
+        { text: "<code>[ 120 ]</code>&nbsp;&nbsp; OP_OVER", link: "/opcodes/OP_OVER.md" },
+        
         { text: "🚧 121 OP_PICK 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 122 OP_ROLL 🚧", link: "/opcodes/WIP.md" },
         { text: "🚧 123 OP_ROT 🚧", link: "/opcodes/WIP.md" },
