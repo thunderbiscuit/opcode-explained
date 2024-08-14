@@ -5,16 +5,17 @@
 **Short description:** Move the stack item at position n to the top of the stack.
 :::
 
-[`OP_ROLL`](./OP_ROLL.md) is used to a select a stack item and move it to the top.
+[`OP_ROLL`](./OP_ROLL.md) is used to select a stack item and move it to the top.
 
 ### Notes
 - If there are fewer than two items on the stack, if n is negative, or if n is larger than the stack when [`OP_ROLL`](./OP_ROLL.md) is executed, the script will fail.
 - The stack item just before OP_ROLL dictates 'n', the location of the item to be moved.
+- Counting begins at 0, not 1; so an n value of 2 would reach the third stack item (0 is first, 1 is second, 2 is third, and so on).
 
 
 ## Examples
 ### Example 1
-Moving the nth stack item when n==2 with four five items (i.e., the third item from the top moves to the top):
+Moving the nth stack item when n==2 with five total items (i.e., the third item from the top moves to the top):
 ```shell
 # ASM script
 OP_1 OP_2 OP_3 OP_4 OP_5 OP_2 OP_ROLL
