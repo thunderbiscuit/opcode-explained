@@ -145,7 +145,7 @@ export default {
         { text: "<code>127 | OP_SUBSTR</code>", link: "/opcodes/OP_SUBSTR.md" },
         { text: "<code>128 | OP_LEFT</code>", link: "/opcodes/OP_LEFT.md" },
         { text: "<code>129 | OP_RIGHT</code>", link: "/opcodes/OP_RIGHT.md" },
-        { text: "<code>130 | 🚧 OP_SIZE</code>", link: "/opcodes/WIP.md" },
+        { text: "<code>130 | OP_SIZE</code>", link: "/opcodes/OP_SIZE.md" },
         { text: "<code>131 | OP_INVERT</code>", link: "/opcodes/OP_INVERT.md" },
         { text: "<code>132 | OP_AND</code>", link: "/opcodes/OP_AND.md" },
         { text: "<code>133 | OP_OR</code>", link: "/opcodes/OP_OR.md" },
