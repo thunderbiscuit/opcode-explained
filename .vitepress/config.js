@@ -132,7 +132,7 @@ export default {
         { text: "<code>114 | OP_2SWAP</code>", link: "/opcodes/OP_2SWAP.md" },
         { text: "<code>115 | OP_IFDUP</code>", link: "/opcodes/OP_IFDUP.md" },
         { text: "<code>116 | OP_DEPTH</code>", link: "/opcodes/OP_DEPTH.md" },
-        { text: "<code>117 | 🚧 OP_DROP</code>", link: "/opcodes/WIP.md" },
+        { text: "<code>117 | OP_DROP</code>", link: "/opcodes/WIP.md" },
         { text: "<code>118 | 🚧 OP_DUP</code>", link: "/opcodes/WIP.md" },
         { text: "<code>119 | 🚧 OP_NIP</code>", link: "/opcodes/WIP.md" },
         { text: "<code>120 | OP_OVER</code>", link: "/opcodes/OP_OVER.md" },
