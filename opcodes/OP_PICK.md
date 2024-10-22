@@ -8,7 +8,7 @@
 
 [`OP_PICK`](./OP_PICK.md) is used to select a stack item and copy it to the top.
 
-## Notes
+### Notes
 
 - If there are fewer than two items on the stack, if n is negative, or if n is larger than the stack when [`OP_PICK`](./OP_PICK.md) is executed, the script will fail.
 - The stack item just before OP_PICK dictates 'n', the location of the item to be copied.

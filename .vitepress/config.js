@@ -134,7 +134,7 @@ export default {
         { text: "<code>116 | OP_DEPTH</code>", link: "/opcodes/OP_DEPTH.md" },
         { text: "<code>117 | OP_DROP</code>", link: "/opcodes/WIP.md" },
         { text: "<code>118 | OP_DUP</code>", link: "/opcodes/WIP.md" },
-        { text: "<code>119 | 🚧 OP_NIP</code>", link: "/opcodes/WIP.md" },
+        { text: "<code>119 | OP_NIP</code>", link: "/opcodes/WIP.md" },
         { text: "<code>120 | OP_OVER</code>", link: "/opcodes/OP_OVER.md" },
         { text: "<code>121 | OP_PICK</code>", link: "/opcodes/WIP.md" },
         { text: "<code>122 | OP_ROLL</code>", link: "/opcodes/WIP.md" },
