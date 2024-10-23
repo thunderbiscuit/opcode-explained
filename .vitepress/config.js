@@ -138,7 +138,7 @@ export default {
         { text: "<code>120 | OP_OVER</code>", link: "/opcodes/OP_OVER.md" },
         { text: "<code>121 | OP_PICK</code>", link: "/opcodes/WIP.md" },
         { text: "<code>122 | OP_ROLL</code>", link: "/opcodes/WIP.md" },
-        { text: "<code>123 | 🚧 OP_ROT</code>", link: "/opcodes/WIP.md" },
+        { text: "<code>123 | OP_ROT</code>", link: "/opcodes/WIP.md" },
         { text: "<code>124 | 🚧 OP_SWAP</code>", link: "/opcodes/WIP.md" },
         { text: "<code>125 | 🚧 OP_TUCK</code>", link: "/opcodes/WIP.md" },
         { text: "<code>126 | OP_CAT</code>", link: "/opcodes/OP_CAT.md" },
