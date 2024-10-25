@@ -1,5 +1,9 @@
-# Work In Progress
+# OP_RESERVED1
 
-:::warning
-This page has not yet been written. If you have experience with bitcoin Script and would like to contribute, please do! You can open a PR [on the repository for this website](https://github.com/thunderbiscuit/opcode-explained).
+:::info
+**Opcode number:** 138  
+**Byte representation:** `0x8a`  
+**Short description:** Fail the script immediately.
 :::
+
+`OP_RESERVED1` fails the script immediately, but it must be executed (for example it does not render a script invalid if it is in a branch of an if/else statement that doesn't get executed). It is a synonym for [OP_RETURN](./OP_RETURN.md).
