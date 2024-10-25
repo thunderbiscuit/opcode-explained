@@ -151,7 +151,7 @@ export default {
         { text: "<code>133 | OP_OR</code>", link: "/opcodes/OP_OR.md" },
         { text: "<code>134 | OP_XOR</code>", link: "/opcodes/OP_XOR.md" },
         { text: "<code>135 | OP_EQUAL</code>", link: "/opcodes/OP_EQUAL.md" },
-        { text: "<code>136 | 🚧 OP_EQUALVERIFY</code>", link: "/opcodes/OP_EQUALVERIFY.md" },
+        { text: "<code>136 | OP_EQUALVERIFY</code>", link: "/opcodes/OP_EQUALVERIFY.md" },
         { text: "<code>137 | 🚧 OP_RESERVED1</code>", link: "/opcodes/OP_RESERVED1.md" },
         { text: "<code>138 | 🚧 OP_RESERVED2</code>", link: "/opcodes/OP_RESERVED2.md" },
         { text: "<code>139 | 🚧 OP_1ADD</code>", link: "/opcodes/OP_1ADD.md" },
