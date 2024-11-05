@@ -159,7 +159,7 @@ export default {
         { text: "<code>141 | OP_2MUL</code>", link: "/opcodes/OP_2MUL.md" },
         { text: "<code>142 | OP_2DIV</code>", link: "/opcodes/OP_2DIV.md" },
         { text: "<code>143 | OP_NEGATE</code>", link: "/opcodes/OP_NEGATE.md" },
-        { text: "<code>144 | 🚧 OP_ABS</code>", link: "/opcodes/OP_ABS.md" },
+        { text: "<code>144 | OP_ABS</code>", link: "/opcodes/OP_ABS.md" },
         { text: "<code>145 | 🚧 OP_NOT</code>", link: "/opcodes/OP_NOT.md" },
         { text: "<code>146 | 🚧 OP_0NOTEQUAL</code>", link: "/opcodes/OP_0NOTEQUAL.md" },
         { text: "<code>147 | OP_ADD</code>", link: "/opcodes/OP_ADD.md" },
