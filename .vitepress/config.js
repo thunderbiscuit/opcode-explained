@@ -155,7 +155,7 @@ export default {
         { text: "<code>137 | OP_RESERVED1</code>", link: "/opcodes/OP_RESERVED1.md" },
         { text: "<code>138 | OP_RESERVED2</code>", link: "/opcodes/OP_RESERVED2.md" },
         { text: "<code>139 | OP_1ADD</code>", link: "/opcodes/OP_1ADD.md" },
-        { text: "<code>140 | 🚧 OP_1SUB</code>", link: "/opcodes/OP_1SUB.md" },
+        { text: "<code>140 | OP_1SUB</code>", link: "/opcodes/OP_1SUB.md" },
         { text: "<code>141 | OP_2MUL</code>", link: "/opcodes/OP_2MUL.md" },
         { text: "<code>142 | OP_2DIV</code>", link: "/opcodes/OP_2DIV.md" },
         { text: "<code>143 | 🚧 OP_NEGATE</code>", link: "/opcodes/OP_NEGATE.md" },
