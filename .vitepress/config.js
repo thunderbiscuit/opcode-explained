@@ -1,5 +1,3 @@
-// import "./theme/custom.css";
-
 export default {
   title: "Opcode Explained",
   description: "Documenting bitcoin opcodes",
