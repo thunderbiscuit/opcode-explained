@@ -1,6 +1,6 @@
 export default {
   title: "Opcode Explained",
-  description: "Documenting bitcoin opcodes",
+  description: "Documenting bitcoin opcodes.",
   themeConfig: {
     search: {
       provider: "local"
@@ -159,7 +159,7 @@ export default {
         { text: "<code>143 | OP_NEGATE</code>", link: "/opcodes/OP_NEGATE.md" },
         { text: "<code>144 | OP_ABS</code>", link: "/opcodes/OP_ABS.md" },
         { text: "<code>145 | OP_NOT</code>", link: "/opcodes/OP_NOT.md" },
-        { text: "<code>146 | 🚧 OP_0NOTEQUAL</code>", link: "/opcodes/OP_0NOTEQUAL.md" },
+        { text: "<code>146 | OP_0NOTEQUAL</code>", link: "/opcodes/OP_0NOTEQUAL.md" },
         { text: "<code>147 | OP_ADD</code>", link: "/opcodes/OP_ADD.md" },
         { text: "<code>149 | OP_MUL</code>", link: "/opcodes/OP_MUL.md" },
         { text: "<code>148 | OP_SUB</code>", link: "/opcodes/OP_SUB.md" },
