@@ -167,7 +167,7 @@ export default {
         { text: "<code>151 | OP_MOD</code>", link: "/opcodes/OP_MOD.md" },
         { text: "<code>152 | OP_LSHIFT</code>", link: "/opcodes/OP_LSHIFT.md" },
         { text: "<code>153 | OP_RSHIFT</code>", link: "/opcodes/OP_RSHIFT.md" },
-        { text: "<code>154 | 🚧 OP_BOOLAND</code>", link: "/opcodes/OP_BOOLAND.md" },
+        { text: "<code>154 | OP_BOOLAND</code>", link: "/opcodes/OP_BOOLAND.md" },
         { text: "<code>155 | 🚧 OP_BOOLOR</code>", link: "/opcodes/OP_BOOLOR.md" },
         { text: "<code>156 | 🚧 OP_NUMEQUAL</code>", link: "/opcodes/OP_NUMEQUAL.md" },
         { text: "<code>157 | 🚧 OP_NUMEQUALVERIFY</code>", link: "/opcodes/OP_NUMEQUALVERIFY.md" },
