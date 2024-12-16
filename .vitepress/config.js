@@ -281,7 +281,7 @@ export default {
     },
     
     socialLinks: [
-      { icon: "github", link: "https://github.com/thunderbiscuit/opcode-explained" }
+      { icon: "github", link: "https://github.com/thunderbiscuit/opcodeexplained.com" }
     ]
   }
 };
