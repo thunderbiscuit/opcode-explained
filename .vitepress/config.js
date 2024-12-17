@@ -170,7 +170,7 @@ export default {
         { text: "<code>154 | OP_BOOLAND</code>", link: "/opcodes/OP_BOOLAND.md" },
         { text: "<code>155 | OP_BOOLOR</code>", link: "/opcodes/OP_BOOLOR.md" },
         { text: "<code>156 | OP_NUMEQUAL</code>", link: "/opcodes/OP_NUMEQUAL.md" },
-        { text: "<code>157 | 🚧 OP_NUMEQUALVERIFY</code>", link: "/opcodes/OP_NUMEQUALVERIFY.md" },
+        { text: "<code>157 | OP_NUMEQUALVERIFY</code>", link: "/opcodes/OP_NUMEQUALVERIFY.md" },
         { text: "<code>158 | 🚧 OP_NUMNOTEQUAL</code>", link: "/opcodes/OP_NUMNOTEQUAL.md" },
         { text: "<code>159 | 🚧 OP_LESSTHAN</code>", link: "/opcodes/OP_LESSTHAN.md" },
         { text: "<code>160 | 🚧 OP_GREATERTHAN</code>", link: "/opcodes/OP_GREATERTHAN.md" },
