@@ -175,7 +175,7 @@ export default {
         { text: "<code>159 | OP_LESSTHAN</code>", link: "/opcodes/OP_LESSTHAN.md" },
         { text: "<code>160 | OP_GREATERTHAN</code>", link: "/opcodes/OP_GREATERTHAN.md" },
         { text: "<code>161 | 🚧 OP_LESSTHANOREQUAL</code>", link: "/opcodes/OP_LESSTHANOREQUAL.md" },
-        { text: "<code>162 | 🚧 OP_GREATERTHANOREQUAL</code>", link: "/opcodes/OP_GREATERTHANOREQUAL.md" },
+        { text: "<code>162 | OP_GREATERTHANOREQUAL</code>", link: "/opcodes/OP_GREATERTHANOREQUAL.md" },
         { text: "<code>163 | 🚧 OP_MIN</code>", link: "/opcodes/OP_MIN.md" },
         { text: "<code>164 | 🚧 OP_MAX</code>", link: "/opcodes/OP_MAX.md" },
         { text: "<code>165 | 🚧 OP_WITHIN</code>", link: "/opcodes/OP_WITHIN.md" },
