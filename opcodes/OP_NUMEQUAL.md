@@ -61,13 +61,13 @@ OP_2 OP_3 OP_NUMEQUAL
 
 ```shell
 # ASM script
-OP_0 OP_0 OP_NUMEQUAL
+OP_PUSHBYTES_1 00 OP_0 OP_NUMEQUAL
 
 # Raw script
-009c
+0100009c
 
 # Stack (before OP_NUMEQUAL)
-0  # top
+[]  # top
 0
 
 # Stack (after OP_NUMEQUAL)
