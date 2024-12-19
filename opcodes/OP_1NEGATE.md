@@ -1,7 +1,9 @@
 # OP_1NEGATE
+
 :::info
 **Opcode number:** 79  
 **Byte representation:** `0x4f`  
+**Other names:** `OP_PUSHNUM_NEG1`  
 **Short Description:** Push the number -1 onto the stack.  
 :::
 
