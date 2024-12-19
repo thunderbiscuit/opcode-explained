@@ -177,7 +177,7 @@ export default {
         { text: "<code>161 | OP_LESSTHANOREQUAL</code>", link: "/opcodes/OP_LESSTHANOREQUAL.md" },
         { text: "<code>162 | OP_GREATERTHANOREQUAL</code>", link: "/opcodes/OP_GREATERTHANOREQUAL.md" },
         { text: "<code>163 | OP_MIN</code>", link: "/opcodes/OP_MIN.md" },
-        { text: "<code>164 | 🚧 OP_MAX</code>", link: "/opcodes/OP_MAX.md" },
+        { text: "<code>164 | OP_MAX</code>", link: "/opcodes/OP_MAX.md" },
         { text: "<code>165 | 🚧 OP_WITHIN</code>", link: "/opcodes/OP_WITHIN.md" },
         { text: "<code>166 | OP_RIPEMD160</code>", link: "/opcodes/OP_RIPEMD160.md" },
         { text: "<code>167 | OP_SHA1</code>", link: "/opcodes/OP_SHA1.md" },
