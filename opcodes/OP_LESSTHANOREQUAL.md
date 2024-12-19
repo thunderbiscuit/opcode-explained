@@ -1,9 +1,9 @@
 # OP_LESSTHANOREQUAL
 
 :::info
-**Opcode number:** 161
-**Byte representation:** 0xa1
-**Short description:** Pop the top two items; push 1 if the second is less than or equal to the top, 0 otherwise.
+**Opcode number:** 161  
+**Byte representation:** 0xa1  
+**Short description:** Pop the top two items; push 1 if the second is less than or equal to the top, 0 otherwise.  
 :::
 
 `OP_LESSTHANOREQUAL` compares the top two items on the stack as integers. If the second item is less than or equal to the top item, it pushes 1 (true) onto the stack. If not, it pushes an empty array (false). Both items are removed from the stack after the comparison.

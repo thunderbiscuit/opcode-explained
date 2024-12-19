@@ -1,9 +1,9 @@
 # OP_GREATERTHANOREQUAL
 
 :::info
-**Opcode number:** 162
-**Byte representation:** `0xa2`
-**Short description:** Pop the top two items; push 1 if the second is greater than or equal to the top, 0 otherwise.
+**Opcode number:** 162  
+**Byte representation:** `0xa2`  
+**Short description:** Pop the top two items; push 1 if the second is greater than or equal to the top, 0 otherwise.  
 :::
 
 `OP_GREATERTHANOREQUAL` compares the top two items on the stack as integers. If the second item is greater than or equal to the top item, it pushes 1 (true) onto the stack. If not, it pushes an empty array (false). Both items are removed from the stack after the comparison.

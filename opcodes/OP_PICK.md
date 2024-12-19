@@ -1,9 +1,9 @@
 # OP_PICK
 
 :::info
-**Opcode number:** 121
+**Opcode number:** 121  
 **Byte representation:** `0x79`  
-**Short description:** Copy an item from the stack at a specified depth and push it to the top.
+**Short description:** Copy an item from the stack at a specified depth and push it to the top.  
 :::
 
 [`OP_PICK`](./OP_PICK.md) is used to select a stack item and copy it to the top.

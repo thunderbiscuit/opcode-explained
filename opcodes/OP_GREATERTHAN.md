@@ -1,9 +1,9 @@
 # OP_GREATERTHAN
 
 :::info
-**Opcode number:** 160
-**Byte representation:** `0xa0`
-**Short description:** Pop the top two items; push 1 if the second is greater than the top, 0 otherwise.
+**Opcode number:** 160  
+**Byte representation:** `0xa0`  
+**Short description:** Pop the top two items; push 1 if the second is greater than the top, 0 otherwise.  
 :::
 
 `OP_GREATERTHAN` compares the top two items on the stack as integers. If the second item is greater than the top item, it pushes 1 (true) onto the stack. If not, it pushes an empty array (false). Both items are removed from the stack after the comparison.
