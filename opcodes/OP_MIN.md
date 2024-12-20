@@ -9,6 +9,7 @@
 `OP_MIN` compares the top two items on the stack as integers and pushes the smaller value back onto the stack. Both original items are removed, and the smaller value becomes the new top item.
 
 ### Operation
+
 1. Pop the top item and the second item from the stack.
 2. Compare the two items, and push the smaller of the two values onto the stack.
 
@@ -16,7 +17,7 @@
 
 - Both items must be valid integers. Bitcoin Script interprets byte arrays up to **4 bytes** as integers.
 - An empty array (`[]`) is treated as 0 when compared.
-- If there are fewer than two items on the stack when `OP_GREATERTHAN` is executed, the script will fail.
+- If there are fewer than two items on the stack when `OP_MIN` is executed, the script will fail.
 
 ## Examples
 
